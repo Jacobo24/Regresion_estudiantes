@@ -1,6 +1,6 @@
 # Regresion_estudiantes
 
-## link al repositorio: 
+## link al repositorio: https://github.com/Jacobo24/Regresion_estudiantes.git
 
 ## link al código en colab: https://colab.research.google.com/drive/1PkpuaWrZL0rVDE4Je2JxxLhvjeN_lHfb?usp=drive_link
 
